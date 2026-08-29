@@ -34,7 +34,7 @@ layout: default
 [[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628) [[arXiv]](https://arxiv.org/abs/2501.08438)
 
 
-## <ins>Presentations</ins>
+### Presentations
 
 ### Joint Mathematics Meetings
 *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*
