@@ -1,6 +1,6 @@
 # Cristian Ramirez
 
-![](IMG_2085.JPG)
+<img src="IMG_2085.JPG" alt="Cristian Ramirez" width="150">
 
 
 ## <ins>Education</ins>
