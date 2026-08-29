@@ -6,11 +6,13 @@ header h1 {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center; /* Centers vertically */
-    align-items: center;     /* Centers horizontally */
-    min-height: 100vh;       /* Makes the body take up the full screen height */
-    margin: 0;               /* Removes default browser margins */
-    text-align: center;      /* Ensures inline text inside blocks is also centered */
+    /* Sets top/bottom margins to 0, and auto-centers the content left/right */
+    margin: 0 auto; 
+    
+    /* Defines how wide the text area can get before margins take over */
+    max-width: 800px; 
+    
+    /* Optional: Adds inner spacing so text doesn't touch the very edge of mobile screens */
+    padding: 0 20px; 
 }
+
