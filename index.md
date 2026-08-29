@@ -20,12 +20,6 @@ December 2023
 
 ### Finite-Time Blow-Up in a Damped Klein–Gordon Equation
 
-Briefly describe your current research project here.
-
-### Fokker–Planck Equation in Quantitative Finance
-
-Briefly describe this research project here.
-
 ### (S,w)-Gap Shifts and Their Entropy
 
 Briefly describe your undergraduate research experience here.
@@ -38,9 +32,9 @@ Briefly describe your undergraduate research experience here.
 
 **Cristian Ramirez and Amy Somers**
 
-*The PUMP Journal of Undergraduate Research*, 2025.
+*The PUMP Journal of Undergraduate Research, Vol. 8, 2025.
 
-[Link to publication](https://journals.calstate.edu/pump/article/view/4115/4628)
+[Journal](https://journals.calstate.edu/pump/article/view/4115/4628) [arXiv](https://arxiv.org/abs/2501.08438)
 
 ---
 
@@ -48,25 +42,14 @@ Briefly describe your undergraduate research experience here.
 
 ### Joint Mathematics Meetings
 San Francisco, CA — 2024
+[Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
 ### Young Mathematicians Conference
 Columbus, OH — 2023
-
----
-
-## Teaching Experience
-
-### Mathematics Teaching Assistant
-
-Brief description of your teaching experience.
-
-### Mathnasium
-
-Brief description of your role and responsibilities.
-
+[Conference Program](https://ymc.osu.edu/ymc-program-2023)
 ---
 
 ## Contact
 
 - **Email:** cristian.ramirez@csueastbay.edu
-- **LinkedIn:** [Your LinkedIn](PUT-LINK-HERE)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cristian-ramirez-/)
