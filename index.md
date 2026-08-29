@@ -48,4 +48,4 @@ layout: default
 ## Contact
 
 - **Email:** cristian.ramirez@csueastbay.edu
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cristian-ramirez-/)
+- **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/cristian-ramirez-/)
