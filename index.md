@@ -4,7 +4,7 @@
 
 ---
 
-## Education
+## <ins>Education</ins>
 
 ### California State University, East Bay
 **M.S. in Mathematics**  
@@ -16,7 +16,7 @@ December 2023
 
 ---
 
-## Research Experience
+## <ins>Research Experience</ins>
 
 ### Finite-Time Blow-Up in a Damped Klein–Gordon Equation
 
@@ -34,11 +34,11 @@ Briefly describe your undergraduate research experience here.
 
 *The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
 
-[Journal](https://journals.calstate.edu/pump/article/view/4115/4628), [arXiv](https://arxiv.org/abs/2501.08438)
+[[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628), [[arXiv]](https://arxiv.org/abs/2501.08438)
 
 ---
 
-## Presentations
+## <ins>Presentations</ins>
 
 ### Joint Mathematics Meetings
 San Francisco, CA — 2024
