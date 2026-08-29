@@ -26,15 +26,15 @@ Briefly describe your undergraduate research experience here.
 
 ---
 
-## Publications
+## <ins>Publications</ins>
 
 ### (S,w)-Gap Shifts and their Entropy
 
 **Cristian Ramirez and Amy Somers**
 
-*The PUMP Journal of Undergraduate Research, Vol. 8, 2025.
+*The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
 
-[Journal](https://journals.calstate.edu/pump/article/view/4115/4628) [arXiv](https://arxiv.org/abs/2501.08438)
+[Journal](https://journals.calstate.edu/pump/article/view/4115/4628), [arXiv](https://arxiv.org/abs/2501.08438)
 
 ---
 
