@@ -1,6 +1,6 @@
 # Cristian Ramirez
 
-<!-- Mathematics | Probability | Stochastic Processes | Applied Analysis -->
+![IMG_2085.JPG]
 
 
 ## <ins>Education</ins>
