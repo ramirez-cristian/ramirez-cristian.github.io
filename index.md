@@ -40,9 +40,9 @@ layout: default
   *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*  
   [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
-- **Young Mathematicians Conference**
- *(S,w)-Gap Shifts and Their Entropy, Columbus, Ohio, August 2023*  
- [Conference Program](https://ymc.osu.edu/ymc-program-2023)
+- **Young Mathematicians Conference**  
+  *(S,w)-Gap Shifts and Their Entropy, Columbus, Ohio, August 2023*  
+  [Conference Program](https://ymc.osu.edu/ymc-program-2023)
 
 
 ### Presentations
