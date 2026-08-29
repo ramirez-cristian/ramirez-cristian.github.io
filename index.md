@@ -24,27 +24,19 @@
 
 ## <ins>Publications</ins>
 
-### (S,w)-Gap Shifts and their Entropy
-
-**Cristian Ramirez and Amy Somers**
-
-*The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
-
+### (S,w)-Gap Shifts and Their Entropy
+*Cristian Ramirez and Amy Somers, The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
 [[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628) [[arXiv]](https://arxiv.org/abs/2501.08438)
 
 
 ## <ins>Presentations</ins>
 
 ### Joint Mathematics Meetings
-*January 2024*
-
-San Francisco, California
+*(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*
 [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
 ### Young Mathematicians Conference
-*August 2023*
-
-Columbus, Ohio
+*(S,w)-Gap Shifts and Their Entropy, Columbus, Ohio, August 2023*
 [Conference Program](https://ymc.osu.edu/ymc-program-2023)
 
 
