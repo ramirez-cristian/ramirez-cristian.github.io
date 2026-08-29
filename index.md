@@ -1,6 +1,6 @@
 # Cristian Ramirez
 
-![IMG_2085.JPG]
+![](IMG_2085.JPG)
 
 
 ## <ins>Education</ins>
