@@ -8,30 +8,30 @@ layout: default
 
 
 
-## <ins>Education</ins>
+### Education
 
-### California State University, East Bay
-***M.S. in Mathematics***  
-*Expected: May 2027*
+- **California State University, East Bay**
+  ***M.S. in Mathematics***  
+  *Expected: May 2027*
 
-### University of California, Berkeley
-***B.A. in Mathematics***  
-*December 2023*
-
-
-## <ins>Research Experience</ins>
-
-### Finite-Time Blow-Up in a Damped Klein–Gordon Equation
-
-### (S,w)-Gap Shifts and Their Entropy
+- **University of California, Berkeley**  
+  ***B.A. in Mathematics***  
+  *December 2023*
 
 
+### Research Experience
 
-## <ins>Publications</ins>
+- **Finite-Time Blow-Up in a Damped Klein–Gordon Equation**
 
-### (S,w)-Gap Shifts and Their Entropy
-*Cristian Ramirez and Amy Somers, The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
-[[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628) [[arXiv]](https://arxiv.org/abs/2501.08438)
+- **(S,w)-Gap Shifts and Their Entropy**
+
+
+
+### Publications
+
+- **(S,w)-Gap Shifts and Their Entropy**  
+  *Cristian Ramirez and Amy Somers, The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
+  [[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628) [[arXiv]](https://arxiv.org/abs/2501.08438)
 
 
 ### Presentations
@@ -43,17 +43,6 @@ layout: default
 - **Young Mathematicians Conference**  
   *(S,w)-Gap Shifts and Their Entropy, Columbus, Ohio, August 2023*  
   [Conference Program](https://ymc.osu.edu/ymc-program-2023)
-
-
-### Presentations
-
-- **Joint Mathematics Meetings**
-    *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*  
-    [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
-
-- **Young Mathematicians Conference**
-    *(S,w)-Gap Shifts and Their Entropy, Columbus, Ohio, August 2023*  
-    [Conference Program](https://ymc.osu.edu/ymc-program-2023)
 
 
 ## Contact
