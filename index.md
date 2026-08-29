@@ -2,7 +2,6 @@
 
 <!-- Mathematics | Probability | Stochastic Processes | Applied Analysis -->
 
----
 
 ## <ins>Education</ins>
 
@@ -14,7 +13,6 @@ Expected: May 2027
 **B.A. in Mathematics**  
 December 2023
 
----
 
 ## <ins>Research Experience</ins>
 
@@ -22,9 +20,7 @@ December 2023
 
 ### (S,w)-Gap Shifts and Their Entropy
 
-Briefly describe your undergraduate research experience here.
 
----
 
 ## <ins>Publications</ins>
 
@@ -34,20 +30,21 @@ Briefly describe your undergraduate research experience here.
 
 *The PUMP Journal of Undergraduate Research, Vol. 8, 2025.*
 
-[[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628), [[arXiv]](https://arxiv.org/abs/2501.08438)
+[[Journal]](https://journals.calstate.edu/pump/article/view/4115/4628) [[arXiv]](https://arxiv.org/abs/2501.08438)
 
----
 
 ## <ins>Presentations</ins>
 
 ### Joint Mathematics Meetings
-San Francisco, CA — 2024
+*January 2024*
+San Francisco, California
 [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
 ### Young Mathematicians Conference
-Columbus, OH — 2023
+*August 2023*
+Columbus, Ohio
 [Conference Program](https://ymc.osu.edu/ymc-program-2023)
----
+
 
 ## Contact
 
