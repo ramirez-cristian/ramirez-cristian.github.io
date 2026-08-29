@@ -36,8 +36,8 @@ layout: default
 
 ### Presentations
 
-- ### Joint Mathematics Meetings  
-  *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*
+- **Joint Mathematics Meetings**  
+  *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*  
   [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
 - ### Young Mathematicians Conference  
