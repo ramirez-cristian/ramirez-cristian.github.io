@@ -6,12 +6,12 @@
 ## <ins>Education</ins>
 
 ### California State University, East Bay
-**M.S. in Mathematics**  
-Expected: May 2027
+***M.S. in Mathematics***  
+*Expected: May 2027*
 
 ### University of California, Berkeley
-**B.A. in Mathematics**  
-December 2023
+***B.A. in Mathematics***  
+*December 2023*
 
 
 ## <ins>Research Experience</ins>
@@ -37,11 +37,13 @@ December 2023
 
 ### Joint Mathematics Meetings
 *January 2024*
+
 San Francisco, California
 [Conference Program](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28806)
 
 ### Young Mathematicians Conference
 *August 2023*
+
 Columbus, Ohio
 [Conference Program](https://ymc.osu.edu/ymc-program-2023)
 
