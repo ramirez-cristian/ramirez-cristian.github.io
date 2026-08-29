@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="IMG_2085.JPG" width="250" style="float: right; margin-left: 30px;">
 
 # Cristian Ramirez
