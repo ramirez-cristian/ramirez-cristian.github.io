@@ -10,7 +10,7 @@ layout: default
 
 ### Education
 
-- **California State University, East Bay**
+- **California State University, East Bay**  
   ***M.S. in Mathematics***  
   *Expected: May 2027*
 
