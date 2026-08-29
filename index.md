@@ -1,6 +1,6 @@
 # Cristian Ramirez
 
-Mathematics | Probability | Stochastic Processes | Applied Analysis
+<!-- Mathematics | Probability | Stochastic Processes | Applied Analysis -->
 
 ---
 
