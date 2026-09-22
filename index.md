@@ -21,7 +21,7 @@ layout: default
 
 ### Research Experience
 
-- **Finite-Time Blow-Up in a Damped Klein–Gordon Equation**
+- **Finite Time Blow-Up in a Damped Klein–Gordon Equation**
 
 - **(S,w)-Gap Shifts and Their Entropy**
 
@@ -35,6 +35,10 @@ layout: default
 
 
 ### Presentations
+
+- **SIAM Northern and Central California Section Conference (NCC26)**  
+  *Finite Time Blow-Up in a Damped Klien-Gordon Equation, October 2026*
+  [Upcoming]
 
 - **Joint Mathematics Meetings**  
   *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*  
