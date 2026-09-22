@@ -37,7 +37,7 @@ layout: default
 ### Presentations
 
 - **SIAM Northern and Central California Section Conference (NCC26)**  
-  *Finite Time Blow-Up in a Damped Klien-Gordon Equation, October 2026*  
+  *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Davis, California, October 2026*  
   [Upcoming]
 
 - **Joint Mathematics Meetings**  
