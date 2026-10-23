@@ -38,7 +38,7 @@ layout: default
 
 - **SIAM Northern and Central California Section Conference (NCC26)**  
   *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Davis, California, October 2026*  
-  [Upcoming]
+  [Conference Program](https://sites.google.com/ucdavis.edu/siamncc26)
 
 - **Joint Mathematics Meetings**  
   *(S,w)-Gap Shifts and Their Entropy, San Francisco, California, January 2024*  
