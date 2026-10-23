@@ -35,6 +35,9 @@ layout: default
 
 
 ### Presentations
+- **Joint Mathematics Meetings**  
+  *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Chicago, Illinois, January 2027*  
+  [Upcoming]
 
 - **SIAM Northern and Central California Section Conference (NCC26)**  
   *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Davis, California, October 2026*  
