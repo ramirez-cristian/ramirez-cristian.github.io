@@ -39,6 +39,11 @@ layout: default
   *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Chicago, Illinois, January 2027*  
   [Upcoming]
 
+- **CSU Biotechnology Symposium**  
+  *Multiscale Mathematical Modeling of Aging Dependent Proteostasis Collapse in Yeast
+, Garden Grove, California, January 2027*  
+  [Upcoming]  
+
 - **SIAM Northern and Central California Section Conference (NCC26)**  
   *Finite Time Blow-Up in a Damped Klein-Gordon Equation, Davis, California, October 2026*  
   [Conference Program](https://sites.google.com/ucdavis.edu/siamncc26)
