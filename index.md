@@ -64,7 +64,7 @@ layout: default
   *CSU, East Bay. Activity Component Instructor*
 
 
-##$ Contact
+### Contact
 
 - **Email:** cristian.ramirez@csueastbay.edu
 - [**LinkedIn**](https://www.linkedin.com/in/cristian-ramirez-/)
