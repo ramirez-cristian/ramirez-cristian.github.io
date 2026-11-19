@@ -59,12 +59,12 @@ layout: default
   [Conference Program](https://ymc.osu.edu/ymc-program-2023)
 
 
-## Teaching Experince
+### Teaching Experience
 - **Finite Mathematics for Business**  
   *CSU, East Bay. Activity Component Instructor*
 
 
-## Contact
+##$ Contact
 
 - **Email:** cristian.ramirez@csueastbay.edu
 - [**LinkedIn**](https://www.linkedin.com/in/cristian-ramirez-/)
