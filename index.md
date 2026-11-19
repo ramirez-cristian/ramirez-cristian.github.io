@@ -61,7 +61,7 @@ layout: default
 
 ### Teaching Experience
 - **Finite Mathematics for Business**  
-  *CSU, East Bay. Activity Component Instructor. Fall 2026.*
+  *CSU, East Bay. Activity Component Instructor, Fall 2026.*
 
 
 ### Contact
