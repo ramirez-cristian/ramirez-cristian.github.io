@@ -60,7 +60,7 @@ layout: default
 
 
 ## Teaching Experince
--**Finite Mathematics for Business**
+- **Finite Mathematics for Business**  
   *CSU, East Bay. Activity Component Instructor*
 
 
