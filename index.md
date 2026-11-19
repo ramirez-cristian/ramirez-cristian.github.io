@@ -23,6 +23,8 @@ layout: default
 
 - **Finite Time Blow-Up in a Damped Klein–Gordon Equation**
 
+- **Multiscale Mathematical Modeling of Aging Dependent Proteostasis Collapse in Yeast**
+
 - **(S,w)-Gap Shifts and Their Entropy**
 
 
